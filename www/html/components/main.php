@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <title>居酒屋検索ガチャ</title>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDXEqS90EJEkG0qexfsQ2BD2BLYDuUNNe0"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key="></script>
   <link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
